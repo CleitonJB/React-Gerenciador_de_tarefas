@@ -2,11 +2,8 @@ import React, { Component } from 'react';
 //import logo from './logo.svg';
 import './App.css';
 
-//import Testando from './Teste';
-
 import Navbar from './ui/NavBar';
-import Home from './container/Home';
-import Carousel from './ui/Carousel'
+//import Home from './container/Home';
 
 class App extends Component {
   render() {
